@@ -1,1 +1,1 @@
-SOL_standard,event_starttime,event_endtime,event_peaktime,fl_peakflux,fl_peakfluxunit,fl_goescls,hpc_bbox,hpc_coord,hpc_radius,hpc_x,hpc_y,obs_instrument,obs_channelid,frm_name
+SOL_standard,event_starttime,event_endtime,event_peaktime,fl_peakflux,fl_peakfluxunit,fl_goescls,hpc_bbox,hpc_radius,hpc_x,hpc_y,hpc_coord,obs_channelid
