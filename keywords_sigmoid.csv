@@ -1,1 +1,1 @@
-SOL_standard,event_starttime,event_endtime,sg_shape,sg_aspectratio,sg_chirality,sg_meancontrast,sg_orientation,sg_peakcontrast,hgc_bbox,hgc_coord,hgc_x,hgc_y,hgs_bbox,hgs_coord,hgs_x,hgs_y,hpc_bbox,hpc_coord,hpc_geom,hpc_radius,hpc_x,hpc_y,hrc_a,hrc_bbox,hrc_coord,hrc_r,ar_noaanum,search_channelid,search_instrument
+starttime_sigmoid,endtime_sigmoid,sg_shape,sg_aspectratio,sg_chirality,sg_meancontrast,sg_orientation,sg_peakcontrast,hpc_bbox_sigmoid,hpc_x_sigmoid,hpc_y_sigmoid,sigmoid_noaanum,search_channelid_sigmoid
